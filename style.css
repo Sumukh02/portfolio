@@ -56,4 +56,6 @@
 p,h1,h2,li{
     color: white;
 }
-
+body{
+    background-color: black;
+}
