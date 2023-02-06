@@ -53,3 +53,9 @@
 #contact {
     padding-bottom: 4rem;
 }
+p,h1,h2,li{
+    color: white;
+}
+body{
+    background-color: black;
+}
